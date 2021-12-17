@@ -10,8 +10,7 @@
 ### Results
 |Model|Accuracy|
 |-----|-------|
-
-Logistic Regression|**98.99%**
+|Logistic Regression|**98.99%**|
 
 
 ### Structure
