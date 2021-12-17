@@ -8,11 +8,11 @@
 -L2 regularization을 사용했다.
 
 ### Results
-|Model|Accuracy|
+Model|Accuracy
 
-|------|---|---|
+-----|-------
 
-|Logistic Regression|98.99%|
+Logistic Regression|**98.99%**
 
 
 ### Structure
