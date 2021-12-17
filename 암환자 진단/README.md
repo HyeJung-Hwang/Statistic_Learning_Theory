@@ -9,11 +9,15 @@
 
 ### Results
 |Model|Accuracy|
+
 |------|---|---|
+
 |Logistic Regression|98.99%|
 
 
 ### Structure
 |--- README.md
+
 |--- Code
+
 |     |--암환자_진단(최종).ipynb
