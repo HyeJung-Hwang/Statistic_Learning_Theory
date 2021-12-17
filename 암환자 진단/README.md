@@ -4,7 +4,9 @@
 
 ### Model
 -Logistic Regression model을 사용했다.
+
 -SelectFromModel 로 feature selection 하여, Clump Thickness,Marginal Adhesion,Single Epithelial Cell Size ,Bare Nuclei로 모델을 학습하기로 결정했다.
+
 -L2 regularization을 사용했다.
 
 ### Results
