@@ -4,6 +4,7 @@
 
 ### Model
 -NN모델( 2000,1000,1000,1000개의 hiddem layer 를 4개로 쌓은 모델 )
+
 -CNN모델( NN 모델에 2개의 convolution layer를 추가한 모델 )
 
 ### Results
