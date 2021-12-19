@@ -3,11 +3,7 @@
 -Wisconsin Breast Cancer Database
 
 ### Model
--Logistic Regression model을 사용했다.
-
 -SelectFromModel 로 feature selection 하여, Clump Thickness,Marginal Adhesion,Single Epithelial Cell Size ,Bare Nuclei로 모델을 학습하기로 결정했다.
-
--L2 regularization을 사용했다.
 
 -아래의 사진처럼, 정규화 정도나 feature를 다양하게 조절해가며 정확도를 비교해본 결과, L2 regularization(lamda=0.01)로 학습했을 때 가장 높은 정확도가 나왔습니다.
 
