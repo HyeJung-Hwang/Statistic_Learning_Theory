@@ -28,14 +28,14 @@
 
 |--MNIST 데이터 예측
 
-|----README.md
+|-------README.md
 
-|----CNN모델로 MNIST 데이터 예측.ipynb
+|-------CNN모델로 MNIST 데이터 예측.ipynb
 
-|----NN모델로 MNIST 데이터 예측.ipynb
+|-------NN모델로 MNIST 데이터 예측.ipynb
 
 |--유방암 환자 진단
 
-|----암환자_진단(최종).ipynb
+|-------암환자_진단(최종).ipynb
 
-|----README.md
+|-------README.md
