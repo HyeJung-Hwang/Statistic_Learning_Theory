@@ -3,11 +3,11 @@
 
 ## 강의 내용 
 ###### - 1. 지도학습
-###### - - Linear Regression
-###### - - Classification 
+###### -    Linear Regression
+###### -    Classification 
 ###### - 2. 비지도학습
-###### - - Clustering
-###### - - Clustering Validation 
+###### -    Clustering
+###### -    Clustering Validation 
 
 
 ## 실습 내용 
